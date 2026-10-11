@@ -1,8 +1,28 @@
 # CS2680 Slide Summaries
 
-Personal study notes summarizing the lecture slides for Harvard CS2680, *Modern AI Systems: Agents and System Optimizations* (instructor: Juncheng Yang). Course site: https://cs2680.com
+Personal study notes summarizing the lecture slides for Harvard CS2680, *Modern AI Systems: Agents and System Optimizations* (instructor: Juncheng Yang).
 
-The original slide PDFs are not included in this repository.
+## Course links
+
+- Course website: https://cs2680.com
+- Alternate course domain (shown in the slide footers): https://course.agentic-system.org
+- Agent evaluation notes: https://cs2680.com/notes/agent-evaluation
+
+## Slides
+
+The original slide PDFs are included in this repository with the instructor's permission.
+
+| Lecture | PDF |
+|---|---|
+| 1. Intro | [1_intro.pdf](1_intro.pdf) |
+| 2. Agent From a User's Perspective I | [2_agent_use_1.pdf](2_agent_use_1.pdf) |
+| 3. Agent From a User's Perspective II | [3_agent_use_2.pdf](3_agent_use_2.pdf) |
+| 4. Agent Design I | [4_agent_design_1.pdf](4_agent_design_1.pdf) |
+| 5. Agent Design II | [5_agent_design_2.pdf](5_agent_design_2.pdf) |
+| 6. Agent Design III | [6_agent_design_3.pdf](6_agent_design_3.pdf) |
+| 7. Agent Design IV | [7_agent_design_4.pdf](7_agent_design_4.pdf) |
+| 8. Agent Design V | [8_agent_design_5.pdf](8_agent_design_5.pdf) |
+| Assignment 3 | [8_assignment3.pdf](8_assignment3.pdf) |
 
 ## 1. Intro (50 slides)
 
